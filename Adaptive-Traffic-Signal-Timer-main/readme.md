@@ -86,25 +86,14 @@ Read more about object detection model used, working of the algorithm, and devel
 ```
 
 ------------------------------------------
-### Dissemination
-
-* This project was showcased at a national level project competition organized by [Government Polytechnic Mumbai](http://www.gpmumbai.ac.in/). View our presentation video [here](https://youtu.be/OssY5pzOyo0).
-
-* Our paper based on this project was presented at 5th IEEE International Conference on Recent Advances and Innovations in Engineering - [ICRAIE 2020](http://www.icraie.poornima.org/) and published in IEEE Xplore. View the paper [here](https://ieeexplore.ieee.org/document/9358334).
-
-------------------------------------------
 ### Contributors
 
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
-
-Devansh Solanki - [devanshslnk](https://github.com/devanshslnk/)
-
-Rutwij Daptardar - [RDmaverick](https://github.com/RDmaverick)
+Rajat Kabra - [kabrarajat92](https://github.com/kabrarajat92/)
 
 ------------------------------------------
 ### Acknowledgement
 
-We would like to extend our sincere thanks to our mentor Mrs. Nirmala Shinde Baloorkar for her kind help and valuable advice. Her support and constant supervision were imperative for the successful completion of this project. We would also like to express our special gratitude and thanks to Mrs. Kavita Kelkar, the subject-matter expert for this project, for her valuable inputs and guidance.   
+I would like to extend our sincere thanks to our mentor Mr. Hariran Sir for her kind help and valuable advice. His support and constant supervision were imperative for the successful completion of this project. I would also like to express our special gratitude and thanks to Mr. Virendra Sing Khushwah, the subject-matter expert for this project, for his valuable inputs and guidance.   
 
 ------------------------------------------
 ### License
